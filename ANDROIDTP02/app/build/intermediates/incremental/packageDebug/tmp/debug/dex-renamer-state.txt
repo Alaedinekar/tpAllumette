@@ -1,0 +1,4 @@
+#Thu Mar 26 20:54:09 CET 2020
+base.0=C\:\\Users\\33640\\OneDrive\\Bureau\\L3_Miage\\miage2019\\tds\\S2\\POO\\TP3\\ANDROIDTP02\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
